@@ -1,0 +1,30 @@
+body{
+    font-family: 'Anton', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+ul,ol li{ 
+    list-style: none;
+    /* display: inline; */
+    margin: 0;
+}
+.menu{
+    background-color: lightgray;
+    display: flex;
+    
+}
+.menu li{
+    display: inline;
+    padding-inline-start: 150px; 
+    ;
+
+}
+/* ol li{
+    list-style: none;
+
+} */
+a{
+    text-decoration: none;
+    color: #000;
+}
+
